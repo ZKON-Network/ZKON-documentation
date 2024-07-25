@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>ZKON Network</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'http://zkon.xyz/',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/AnmcW4HY2M',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/ZKON-Network',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'ZKON Github',
   },
 }
 
