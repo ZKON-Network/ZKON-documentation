@@ -1,5 +1,5 @@
 # ZKON Network Documentation 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Welcome to ZKON Network documentation. For more information visit [ZKON](https://zkon.xyz). Feel free to contact us by joining our [Discord](https://discord.gg/AnmcW4HY2M) or on [𝕏](https://twitter.com/zkon_network)
 
-[**ZKON Network →**](https://github.com/ZKON-Network)
+[**ZKON Network Github**](https://github.com/ZKON-Network)
