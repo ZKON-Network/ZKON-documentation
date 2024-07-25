@@ -12,7 +12,6 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/ZKON-Network',
   footer: {
     text: 'ZKON Network 2024',
-      link: 'https://zkon.xyz',
   },
 }
 
