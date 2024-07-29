@@ -8,7 +8,7 @@ Version v0.0.1-preview
 
 **ZkonCoordinator**
 
-B62qrNM4z2hRR7XjMvvn53rHzA7Rgph3DVWms7AC4QdNBRL2xMs8kpF
+B62qnmsn4Bm4MzPujKeN1faxedz4p1cCAwA9mKAWzDjfb4c1ysVvWeK
 
 ### Setup
 
@@ -28,6 +28,8 @@ import { ZkonZkProgram, ZkonRequestCoordinator, ExternalRequestEvent } from 'zko
 ```
 
 ### Coding
+
+> ⚠️ **Important note:** We don't actually support importing external dependencies other than the ones from `zkon-zkapp` and the `o1.js`. We're working on upgrading this.
 
 Inside your zkapp call the sendRequest method of the coordinator, you will need to send your zkapp address and an ipfs hash (divided in two parts) with the json request. Will explain more later on the format. 
 
@@ -100,6 +102,8 @@ function segmentHash(ipfsHashFile: string) {
 ```
 
 ### Prepay for the requests
+
+> ⚠️ **Note:** For devnet there is no need to prepay for the requests.
 
 Before doing any request you should prepay it with ZKON tokens. Call the "prepayRequest" method from the ZkonCoordinator, sending how many request you want to prepay and your zkapp public key as beneficiary (or any zkapp you may want to prepay request for).
 
