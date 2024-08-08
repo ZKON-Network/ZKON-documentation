@@ -29,7 +29,7 @@ import { ZkonZkProgram, ZkonRequestCoordinator, ExternalRequestEvent } from 'zko
 
 ### Coding
 
-> ❗ **We don't actually support import external deps other than the ones from zkon-zkapp and the o1.js. We're working on upgrading this.**
+> ❗ **Remember to add add all your dependencies into the compiled js that will contain your final zkapp, except o1js.**
 
 Inside your zkapp call the sendRequest method of the coordinator, you will need to send your zkapp address and an ipfs hash (divided in two parts) with the json request. Will explain more later on the format. 
 
