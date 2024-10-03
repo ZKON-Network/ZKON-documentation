@@ -2,6 +2,7 @@
   "index": "Introduction",
   "zkonminaintegration": "ZKON Onchain Mina Oracle",
   "zkonsdk": "ZKON Offchain SDK"
+  "zkonsdk2": "ZKON Offchain SDK2"
   "company": {
     "title": "Company",
     "type": "menu",
