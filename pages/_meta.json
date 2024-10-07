@@ -1,15 +1,21 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact",
-    "type": "page",
-    "href": "https://twitter.com/intent/follow?screen_name=zkon_network",
-    "newWindow": true
+  "zkonminaintegration": "ZKON Onchain Mina Oracle",
+  "zkonsdk": "ZKON Offchain SDK",
+  "company": {
+    "title": "Company",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "About",
+        "type": "page"
+      },
+      "contact": {
+        "title": "Contact",
+        "type": "page",
+        "href": "https://twitter.com/intent/follow?screen_name=zkon_network",
+        "newWindow": true
+      }
+    }
   }
 }
