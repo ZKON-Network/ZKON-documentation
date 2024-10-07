@@ -15,4 +15,12 @@ const config: DocsThemeConfig = {
   },
 }
 
-export default config
+export default {
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Documentation | ZKON Network" />
+      <meta property="og:description" content="Provable Data Transfers. Verify to the world your Data Integrity." />
+    </>
+  )
+}
