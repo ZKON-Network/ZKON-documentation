@@ -1,13 +1,18 @@
 {
   "index": "Introduction",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "zkonminaintegration": "zkOracle Integration on Mina",
+  "zkonsdk": "SDK Integration",
+  "company": {
+    "title": "Company",
+    "type": "menu",
+      "about": {
+        "title": "About",
+        "type": "page"
+      },
+      "contact": {
+        "title": "Contact",
+        "type": "page",
+        "href": "https://twitter.com/intent/follow?screen_name=zkon_network",
+        "newWindow": true
   }
 }
