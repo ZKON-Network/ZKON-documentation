@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
-  "zkonminaintegration": "ZKON Onchain Mina Oracle",
-  "zkonsdk": "ZKON zkTLS SDK",
+  "zkonminaintegration": "zkTLS Mina Oracle",
+  "zkonsdk": "zkTLS offchain SDK",
   "company": {
     "title": "Company",
     "type": "menu",
