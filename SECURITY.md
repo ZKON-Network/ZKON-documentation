@@ -1,8 +1,3 @@
----
-title: '**Formal Security Analysis of ZKON’s zkTLS Mina Oracle**'
-
----
-
 # **Formal Security Analysis of ZKON’s zkTLS Mina Oracle**
 
 This document presents a comprehensive and rigorous formal security analysis of ZKON’s zkTLS Mina Oracle, including formal adversary models, security assumptions, cryptographic definitions, detailed definitions of attacks, game-based security definitions, and rigorous proofs by contradiction. All elements are connected to adversary models and underlying cryptographic assumptions to ensure completeness and coherence.
